@@ -1,4 +1,10 @@
 # Kaggle – Intro to Machine Learning
+## Certification
+
+- **Kaggle Learn – Intro to Machine Learning**
+- Issued by Kaggle
+- Skills validated: Machine Learning fundamentals, Decision Trees, Random Forests, Model Evaluation
+- 📄 **Certificate:** [View Certificate](Kaggle_Intro_to_Machine_Learning_Certificate.pdf)
 
 This repository documents my work from the Kaggle Learn course **“Intro to Machine Learning”**, focused on applying machine learning techniques using Python on real-world datasets.
 
